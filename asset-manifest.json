@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crypto-Traker/static/css/main.deb4d580.chunk.css",
+    "main.js": "/Crypto-Traker/static/js/main.0150b782.chunk.js",
+    "main.js.map": "/Crypto-Traker/static/js/main.0150b782.chunk.js.map",
+    "runtime-main.js": "/Crypto-Traker/static/js/runtime-main.022acbd7.js",
+    "runtime-main.js.map": "/Crypto-Traker/static/js/runtime-main.022acbd7.js.map",
+    "static/css/2.02daa001.chunk.css": "/Crypto-Traker/static/css/2.02daa001.chunk.css",
+    "static/js/2.85cddd5f.chunk.js": "/Crypto-Traker/static/js/2.85cddd5f.chunk.js",
+    "static/js/2.85cddd5f.chunk.js.map": "/Crypto-Traker/static/js/2.85cddd5f.chunk.js.map",
+    "index.html": "/Crypto-Traker/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/Crypto-Traker/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/Crypto-Traker/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.85cddd5f.chunk.js.LICENSE.txt": "/Crypto-Traker/static/js/2.85cddd5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022acbd7.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.85cddd5f.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.0150b782.chunk.js"
+  ]
+}
